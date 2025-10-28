@@ -4,5 +4,4 @@ public class HelloWorld {
     }
 }
 
-javac HelloWorld.java
-java HelloWorld
+
